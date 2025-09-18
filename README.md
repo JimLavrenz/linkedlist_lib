@@ -10,4 +10,4 @@
 - list_linkedlist_del
 - list_count
 
-TODO-unit tests
+TODO-unit tests, make generic with function pointers, etc.
